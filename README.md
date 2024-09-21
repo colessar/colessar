@@ -1,10 +1,2 @@
-## Hi there 👋
-
-- 🔭 I’m currently working on fullstack development.
-- 🌱 I’m currently learning AI/ML.
-- 👯 I’m looking to collaborate on backend development.
-- 🤔 I’m looking for help with any full stack development.
-- 💬 Ask me about anything.
-- 📫 How to reach me: colesarevansetkz@gmail.com.
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+好きなものを、好きなもので、好きなように作る。「ものを創るもの」を造るのが好き。👋
+Make things I like, with things I like, as I like to do. I like making thing that creates another thing.
